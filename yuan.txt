@@ -1,0 +1,9 @@
+河北三佳购物,https://bf.singerlan.repl.co?id=059
+河北公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel12001/index.m3u8
+河北农民,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13008/index.m3u8
+河北少儿科教,https://bf.singerlan.repl.co?id=108
+河北影视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13007/index.m3u8
+河北收视指南,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13006/index.m3u8
+河北杂技,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13010/index.m3u8
+河北经济生活,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13002/index.m3u8
+河北河北都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13003/index.m3u8
