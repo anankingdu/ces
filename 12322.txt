@@ -1,0 +1,1 @@
+cctv1,https://cdn.live.cntv.cn/live/cctv1.m3u8
